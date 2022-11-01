@@ -1,0 +1,5 @@
+ReactDOM.render(<h3>ZURI</h3>, document.getElementById("btn__zuri"))
+ReactDOM.render(<h3>Design and Coding books</h3>, document.getElementById("books"))
+ReactDOM.render(<h3>Python for Beginners</h3>, document.getElementById("book__python"))
+ReactDOM.render(<h3>best selling books for Design and Coding</h3>, document.getElementById("pitch"))
+ReactDOM.render(<h3>free design books offered by zuri</h3>, document.getElementById("book__design"))

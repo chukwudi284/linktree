@@ -1,0 +1,106 @@
+body{
+    background-color:red;
+}
+
+#profile__img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    height: auto;
+    max-width: 150px;
+    border-radius: 50%;
+}
+
+#slack{
+    text-align: center;
+    padding: 30px;
+    font-size: 28px;
+    color: white;
+    display: none;
+}
+
+#profile-name{
+    text-align: center;
+    padding: 30px;
+    font-size: 28px;
+    color: white;
+}
+
+#twitter{
+    text-align: center;
+    padding: 30px;
+    font-size: 28px;
+    color: white;
+}
+
+#btn__zuri h3{
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid white;
+    border-width: 2px;
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+    text-decoration: none;
+    color: white;
+}
+
+#books{
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid white;
+    border-width: 2px;
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+    text-decoration: none;
+    color: white;
+}
+
+
+#pitch{
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid white;
+    border-width: 2px;
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+    text-decoration: none;
+    color: white;
+}
+
+#book__python{
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid white;
+    border-width: 2px;
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+    text-decoration: none;
+    color: white;
+}
+
+#book__design{
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid white;
+    border-width: 2px;
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+    text-decoration: none;
+    color: white;
+}
